@@ -3,7 +3,7 @@
 Arduino sorta BIOS to handle Sensor-data (here BMP 280[180]) 
 
 1. Sensor  
-  1.  PWM(parallel)      <put> constant analog sensor-stream -> through external 3xConverter  for SPS-conform 0-10V(2-10V) signals
+  11.  PWM(parallel)      <put> constant analog sensor-stream -> through external 3xConverter  for SPS-conform 0-10V(2-10V) signals
 
 2. Connex
   2.  USB(serial)        <put> regular measured and csv formatted data
