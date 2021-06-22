@@ -1,6 +1,6 @@
 # isp_nano_AN0+LCD+CMD+EP+X2+DIF2
 
-Arduion sorta BIOS to handle Sensor-data (here BMP 280[180]) 
+Arduino sorta BIOS to handle Sensor-data (here BMP 280[180]) 
 
 1.) Sensor  
   a.)  PWM(parallel)      <put> constant analog sensor-stream -> through external 3xConverter  for SPS-conform 0-10V(2-10V) signals
